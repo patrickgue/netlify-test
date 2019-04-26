@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Grotesk";
+    font-weight: 200;
+    font-style: normal;
+    src: url(agl.otf);
+}
+
+@font-face {
+    font-family: "Grotesk";
+    font-weight: 200;
+    font-style: italic;
+    src: url(agli.otf);
+}
+
+@font-face {
+    font-family: "Grotesk";
+    font-weight: 500;
+    font-style: normal;
+    src: url(agm.otf);
+}
+
+@font-face {
+    font-family: "Grotesk";
+    font-weight: 800;
+    font-style: normal;
+    src: url(ags.otf);
+}
